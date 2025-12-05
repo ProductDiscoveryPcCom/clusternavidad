@@ -1,0 +1,183 @@
+{
+  "hombre": {
+    "nombre": "Regalos para Hombre",
+    "emoji": "👨",
+    "tipo": "genero",
+    "keywords_match": [
+      "hombre", "hombres", "chico", "chicos", "masculino",
+      "el", "él", "caballero", "señor", "varon", "varón"
+    ]
+  },
+  "mujer": {
+    "nombre": "Regalos para Mujer",
+    "emoji": "👩",
+    "tipo": "genero",
+    "keywords_match": [
+      "mujer", "mujeres", "chica", "chicas", "femenino",
+      "ella", "dama", "señora"
+    ]
+  },
+  "bebe": {
+    "nombre": "Regalos para Bebés",
+    "emoji": "👶",
+    "tipo": "edad",
+    "keywords_match": [
+      "bebe", "bebé", "bebes", "bebés", "recien nacido", "recién nacido",
+      "0 años", "1 año", "2 años", "lactante"
+    ]
+  },
+  "nino": {
+    "nombre": "Regalos para Niños",
+    "emoji": "🧒",
+    "tipo": "edad",
+    "keywords_match": [
+      "niño", "niños", "niña", "niñas", "infantil", "infancia",
+      "3 años", "4 años", "5 años", "6 años", "7 años", "8 años",
+      "9 años", "10 años", "pequeño", "pequeños", "peque", "peques",
+      "hijo", "hija", "hijos", "hijas"
+    ]
+  },
+  "preadolescente": {
+    "nombre": "Regalos para Preadolescentes",
+    "emoji": "🧑",
+    "tipo": "edad",
+    "keywords_match": [
+      "preadolescente", "11 años", "12 años", "13 años",
+      "tweens", "tween"
+    ]
+  },
+  "adolescente": {
+    "nombre": "Regalos para Adolescentes",
+    "emoji": "🧑‍🎤",
+    "tipo": "edad",
+    "keywords_match": [
+      "adolescente", "adolescentes", "teen", "teens", "teenager",
+      "joven", "jovenes", "jóvenes", "juvenil", "juventud",
+      "14 años", "15 años", "16 años", "17 años", "18 años"
+    ]
+  },
+  "adulto": {
+    "nombre": "Regalos para Adultos",
+    "emoji": "🧑‍💼",
+    "tipo": "edad",
+    "keywords_match": ["adulto", "adultos", "mayor de edad", "mayores"]
+  },
+  "senior": {
+    "nombre": "Regalos para Mayores",
+    "emoji": "🧓",
+    "tipo": "edad",
+    "keywords_match": [
+      "abuelo", "abuela", "abuelos", "abuelas", "anciano", "ancianos",
+      "mayor", "tercera edad", "senior", "seniors",
+      "jubilado", "jubilados", "70 años", "80 años"
+    ]
+  },
+  "padre": {
+    "nombre": "Regalos para Padre",
+    "emoji": "👨‍👧",
+    "tipo": "relacion",
+    "keywords_match": [
+      "padre", "padres", "papa", "papá", "papi",
+      "dia del padre", "día del padre"
+    ]
+  },
+  "madre": {
+    "nombre": "Regalos para Madre",
+    "emoji": "👩‍👧",
+    "tipo": "relacion",
+    "keywords_match": [
+      "madre", "madres", "mama", "mamá", "mami",
+      "dia de la madre", "día de la madre"
+    ]
+  },
+  "hermano": {
+    "nombre": "Regalos para Hermanos",
+    "emoji": "👫",
+    "tipo": "relacion",
+    "keywords_match": [
+      "hermano", "hermana", "hermanos", "hermanas", "hermanito", "hermanita"
+    ]
+  },
+  "pareja": {
+    "nombre": "Regalos para Pareja",
+    "emoji": "💑",
+    "tipo": "relacion",
+    "keywords_match": [
+      "pareja", "parejas", "novio", "novia", "novios",
+      "marido", "esposo", "esposa", "conyuge", "cónyuge",
+      "enamorado", "enamorada", "enamorados", "san valentin", "san valentín",
+      "aniversario", "romantico", "romántico"
+    ]
+  },
+  "amigo": {
+    "nombre": "Regalos para Amigos",
+    "emoji": "🤝",
+    "tipo": "relacion",
+    "keywords_match": [
+      "amigo", "amiga", "amigos", "amigas", "amistad",
+      "amigo invisible", "mejor amigo", "mejor amiga",
+      "colega", "colegas", "compi", "compis"
+    ]
+  },
+  "companero": {
+    "nombre": "Regalos para Compañeros",
+    "emoji": "💼",
+    "tipo": "relacion",
+    "keywords_match": [
+      "compañero", "compañera", "compañeros", "trabajo", "oficina",
+      "jefe", "jefa", "empleado", "empleada", "empresa", "corporativo"
+    ]
+  },
+  "navidad_general": {
+    "nombre": "Navidad General",
+    "emoji": "🎄",
+    "tipo": "ocasion",
+    "keywords_match": [
+      "navidad", "navidades", "navideño", "navideña", "navideños",
+      "noel", "papa noel", "papá noel", "santa claus",
+      "reyes", "reyes magos", "día de reyes",
+      "fiestas", "festivo", "festivos", "holidays",
+      "diciembre", "enero", "nochebuena", "nochevieja"
+    ]
+  },
+  "amigo_invisible": {
+    "nombre": "Amigo Invisible",
+    "emoji": "🎁",
+    "tipo": "ocasion",
+    "keywords_match": [
+      "amigo invisible", "amigo secreto", "secret santa",
+      "intercambio regalo", "intercambio regalos",
+      "sorteo regalo", "kris kringle"
+    ]
+  },
+  "original": {
+    "nombre": "Regalos Originales",
+    "emoji": "✨",
+    "tipo": "estilo",
+    "keywords_match": [
+      "original", "originales", "creativo", "creativos",
+      "unico", "único", "diferente", "especial", "sorpresa",
+      "curioso", "divertido", "gracioso", "friki", "geek", "frikis"
+    ]
+  },
+  "economico": {
+    "nombre": "Regalos Económicos",
+    "emoji": "💰",
+    "tipo": "precio",
+    "keywords_match": [
+      "barato", "baratos", "economico", "económico", "economicos",
+      "low cost", "menos de 10", "menos de 20", "menos de 30",
+      "hasta 10 euros", "hasta 20 euros", "hasta 30 euros",
+      "por poco dinero", "sin gastar mucho", "presupuesto"
+    ]
+  },
+  "premium": {
+    "nombre": "Regalos Premium",
+    "emoji": "👑",
+    "tipo": "precio",
+    "keywords_match": [
+      "premium", "lujo", "lujoso", "exclusivo", "caro",
+      "alta gama", "high end", "top", "mejor", "mejores"
+    ]
+  }
+}
